@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtdBOixvoD8oQ/2Y3ghX1+iWmWEYR3YBjtQVsSfV/fdfoqK5Lo5olWlw3GfKx88agLVCbO3PQlLB44QGCM8h4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagar.vidhwani\\source\\repos\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagar.vidhwani\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\sagar.vidhwani\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
